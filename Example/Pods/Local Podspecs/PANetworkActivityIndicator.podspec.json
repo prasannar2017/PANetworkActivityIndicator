@@ -1,0 +1,22 @@
+{
+  "name": "PANetworkActivityIndicator",
+  "version": "0.1.0",
+  "summary": "A short description of PANetworkActivityIndicator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/prasanna-tapzo/PANetworkActivityIndicator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "prasanna-tapzo": "prasanna.aithal2017@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/prasanna-tapzo/PANetworkActivityIndicator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PANetworkActivityIndicator/Classes/**/*"
+}

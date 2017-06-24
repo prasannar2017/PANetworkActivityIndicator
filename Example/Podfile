@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PANetworkActivityIndicator_Example' do
+  pod 'PANetworkActivityIndicator', :path => '../'
+
+  target 'PANetworkActivityIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

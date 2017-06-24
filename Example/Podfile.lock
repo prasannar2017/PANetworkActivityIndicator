@@ -1,0 +1,16 @@
+PODS:
+  - PANetworkActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - PANetworkActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  PANetworkActivityIndicator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PANetworkActivityIndicator: d035b2e028454715dc052253e87807baf63d5c40
+
+PODFILE CHECKSUM: d00c168848a241132670259562d23f7158e05d6a
+
+COCOAPODS: 1.2.1

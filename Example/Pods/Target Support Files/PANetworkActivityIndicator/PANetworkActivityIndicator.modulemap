@@ -1,0 +1,6 @@
+framework module PANetworkActivityIndicator {
+  umbrella header "PANetworkActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
